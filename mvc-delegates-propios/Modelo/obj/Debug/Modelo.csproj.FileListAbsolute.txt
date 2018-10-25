@@ -1,0 +1,6 @@
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\bin\Debug\Modelo.dll
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\obj\Debug\Modelo.dll
+C:\Users\ING\Desktop\mvc-delegates-propios\Modelo\obj\Debug\Modelo.pdb
